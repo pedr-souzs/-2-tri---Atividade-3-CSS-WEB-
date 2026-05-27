@@ -39,25 +39,28 @@
 }
 
 .pequeno{
+  color: red;
   background-color: lightgreen;
   padding: 50px 50px;
   margin: 50px;
   border-radius: 100%;
-  border: 5px solid red;
+  border: 5px solid purple;
 }
 
 .medio{
+  color: red;
   background-color: lightgreen;
   padding: 100px 100px;
   margin: 25px;
   border-radius: 100%;
-  border: 5px solid red;
+  border: 5px solid purple;
 }
 
 .grande{
+  color: red;
   background-color: lightgreen;
   padding: 200px 200px;
   margin: 50px;
   border-radius: 100%;
-  border: 5px solid red;
+  border: 5px solid purple;
 }
