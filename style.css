@@ -37,3 +37,27 @@
   width: 100px;
   height: 100px;
 }
+
+.pequeno{
+  background-color: lightgreen;
+  padding: 50px 50px;
+  margin: 50px;
+  border-radius: 100%;
+  border: 5px solid red;
+}
+
+.medio{
+  background-color: lightgreen;
+  padding: 100px 100px;
+  margin: 25px;
+  border-radius: 100%;
+  border: 5px solid red;
+}
+
+.grande{
+  background-color: lightgreen;
+  padding: 200px 200px;
+  margin: 50px;
+  border-radius: 100%;
+  border: 5px solid red;
+}
